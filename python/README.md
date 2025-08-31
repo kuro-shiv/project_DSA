@@ -84,22 +84,6 @@ This project serves as a personal study guide, capturing code snippets, explanat
 
 ---
 
-## 🚀 Getting Started
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/python_full_course.git
-
-2. Navigate to the desired folder:
-
-    cd python_full_course/basics
-
-3. Run the Python script:
-
-    python script_name.py
-
----
-
 ## 📚 Additional Resources
 
   [BroCode Python Tutorial Playlist](https://www.youtube.com/watch?v=ix9cRaBkVe0&ab_channel=BroCode)
