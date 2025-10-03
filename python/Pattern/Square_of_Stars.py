@@ -1,4 +1,6 @@
 n = int(input("Enter a number: "))
+print("")
+
 for i in range(n):
     print("*" * n)
 
